@@ -1,0 +1,28 @@
+esphome:
+  name: trackerblu
+  
+esp32_ble_tracker:
+
+esp32:
+  board: nodemcu-32s
+  framework:
+    type: arduino
+
+# Enable logging
+logger:
+
+# Enable Home Assistant API
+api:
+  password: "mypasswd"
+
+ota:
+  password: "mypasswd"
+
+
+  # Enable fallback hotspot (captive portal) in case wifi connection fails
+  ap:
+    ssid: "Trackerblu Fallback Hotspot"
+    password: "CAINTqeJzk2Y"
+
+captive_portal:
+    
