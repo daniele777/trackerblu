@@ -1,0 +1,1 @@
+ C:\\Users\\danim\\Documents\\trackerblue\\.dart_tool\\flutter_build\\87e563220e45358cccee4e5031ffba2a\\native_assets.yaml: 
