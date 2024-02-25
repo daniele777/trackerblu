@@ -1,6 +1,6 @@
 # trackerblue
 
-A new Flutter project.
+Finder airtag or blutooth device carrying esp32 circuit by drone
 
 ## Getting Started
 
