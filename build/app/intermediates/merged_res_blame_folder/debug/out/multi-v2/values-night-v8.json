@@ -4,7 +4,7 @@
             "outputFile": "com.yourdomain.trackerblue.app-mergeDebugResources-22:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\danim\\Documents\\trackerblue\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\Users\\danim\\StudioProjects\\trackerblu1\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\danim\\.gradle\\caches\\transforms-3\\3adc4344f25dd89d3e96ca0bd74d273f\\transformed\\appcompat-1.4.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\danim\\.gradle\\caches\\transforms-3\\7e09c9dae8158ffdee251100fd6e1e5e\\transformed\\appcompat-1.4.0\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

@@ -4,17 +4,7 @@
             "outputFile": "com.yourdomain.trackerblue.app-mergeDebugResources-22:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\danim\\.gradle\\caches\\transforms-3\\acd32d46c107e049bd184a858041285f\\transformed\\core-1.7.0\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\danim\\.gradle\\caches\\transforms-3\\3adc4344f25dd89d3e96ca0bd74d273f\\transformed\\appcompat-1.4.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\danim\\.gradle\\caches\\transforms-3\\7e09c9dae8158ffdee251100fd6e1e5e\\transformed\\appcompat-1.4.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,6 +20,16 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\danim\\.gradle\\caches\\transforms-3\\7093511b3aaec2a05c8fddb002628831\\transformed\\core-1.7.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
                     }
                 }
             ]

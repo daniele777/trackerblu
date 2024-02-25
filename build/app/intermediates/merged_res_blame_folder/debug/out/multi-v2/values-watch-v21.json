@@ -4,7 +4,7 @@
             "outputFile": "com.yourdomain.trackerblue.app-mergeDebugResources-22:/values-watch-v21/values-watch-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\danim\\.gradle\\caches\\transforms-3\\3adc4344f25dd89d3e96ca0bd74d273f\\transformed\\appcompat-1.4.0\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "source": "C:\\Users\\danim\\.gradle\\caches\\transforms-3\\7e09c9dae8158ffdee251100fd6e1e5e\\transformed\\appcompat-1.4.0\\res\\values-watch-v21\\values-watch-v21.xml",
                     "from": {
                         "startLines": "2,6,10",
                         "startColumns": "4,4,4",

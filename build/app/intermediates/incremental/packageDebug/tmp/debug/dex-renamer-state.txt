@@ -1,4 +1,4 @@
-#Sat Feb 24 10:47:31 CET 2024
-base.0=C\:\\Users\\danim\\Documents\\trackerblue\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Sun Feb 25 04:32:14 CET 2024
+base.0=C\:\\Users\\danim\\StudioProjects\\trackerblu1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

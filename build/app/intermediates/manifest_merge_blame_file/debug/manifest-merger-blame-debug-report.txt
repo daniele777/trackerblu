@@ -13,8 +13,8 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->C:\Users\danim\Documents\trackerblue\android\app\src\debug\AndroidManifest.xml:6:5-66
-15-->C:\Users\danim\Documents\trackerblue\android\app\src\debug\AndroidManifest.xml:6:22-64
+15-->C:\Users\danim\StudioProjects\trackerblu1\android\app\src\debug\AndroidManifest.xml:6:5-66
+15-->C:\Users\danim\StudioProjects\trackerblu1\android\app\src\debug\AndroidManifest.xml:6:22-64
 16    <!--
 17     Required to query activities that can process text, see:
 18         https://developer.android.com/training/package-visibility?hl=en and
@@ -23,39 +23,39 @@
 21         In particular, this is used by the Flutter engine in io.flutter.plugin.text.ProcessTextPlugin.
 22    -->
 23    <queries>
-23-->C:\Users\danim\Documents\trackerblue\android\app\src\main\AndroidManifest.xml:38:5-43:15
+23-->C:\Users\danim\StudioProjects\trackerblu1\android\app\src\main\AndroidManifest.xml:38:5-43:15
 24        <intent>
-24-->C:\Users\danim\Documents\trackerblue\android\app\src\main\AndroidManifest.xml:39:9-42:18
+24-->C:\Users\danim\StudioProjects\trackerblu1\android\app\src\main\AndroidManifest.xml:39:9-42:18
 25            <action android:name="android.intent.action.PROCESS_TEXT" />
-25-->C:\Users\danim\Documents\trackerblue\android\app\src\main\AndroidManifest.xml:40:13-72
-25-->C:\Users\danim\Documents\trackerblue\android\app\src\main\AndroidManifest.xml:40:21-70
+25-->C:\Users\danim\StudioProjects\trackerblu1\android\app\src\main\AndroidManifest.xml:40:13-72
+25-->C:\Users\danim\StudioProjects\trackerblu1\android\app\src\main\AndroidManifest.xml:40:21-70
 26
 27            <data android:mimeType="text/plain" />
-27-->C:\Users\danim\Documents\trackerblue\android\app\src\main\AndroidManifest.xml:41:13-50
-27-->C:\Users\danim\Documents\trackerblue\android\app\src\main\AndroidManifest.xml:41:19-48
+27-->C:\Users\danim\StudioProjects\trackerblu1\android\app\src\main\AndroidManifest.xml:41:13-50
+27-->C:\Users\danim\StudioProjects\trackerblu1\android\app\src\main\AndroidManifest.xml:41:19-48
 28        </intent>
 29    </queries>
 30
 31    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-31-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:10:5-79
-31-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:10:22-76
+31-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:10:5-79
+31-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:10:22-76
 32    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-32-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:11:5-81
-32-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:11:22-78
+32-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:11:5-81
+32-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:11:22-78
 33    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-33-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:12:5-79
-33-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:12:22-76
+33-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:12:5-79
+33-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:12:22-76
 34    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-34-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:14:5-81
-34-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:14:22-78
+34-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:14:5-81
+34-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:14:22-78
 35    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-35-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:15:5-77
-35-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:15:22-74
+35-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:15:5-77
+35-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:15:22-74
 36
 37    <application
 38        android:name="android.app.Application"
 39        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-39-->[androidx.core:core:1.7.0] C:\Users\danim\.gradle\caches\transforms-3\acd32d46c107e049bd184a858041285f\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+39-->[androidx.core:core:1.7.0] C:\Users\danim\.gradle\caches\transforms-3\7093511b3aaec2a05c8fddb002628831\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 40        android:debuggable="true"
 41        android:icon="@mipmap/ic_launcher"
 42        android:label="trackerblue" >
@@ -93,98 +93,98 @@
 74            android:value="2" />
 75
 76        <uses-library
-76-->[androidx.window:window:1.0.0-beta04] C:\Users\danim\.gradle\caches\transforms-3\4b5a18471ec833030c46d3531975dc92\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+76-->[androidx.window:window:1.0.0-beta04] C:\Users\danim\.gradle\caches\transforms-3\31f761f927b360985a7dd97909350be2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
 77            android:name="androidx.window.extensions"
-77-->[androidx.window:window:1.0.0-beta04] C:\Users\danim\.gradle\caches\transforms-3\4b5a18471ec833030c46d3531975dc92\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+77-->[androidx.window:window:1.0.0-beta04] C:\Users\danim\.gradle\caches\transforms-3\31f761f927b360985a7dd97909350be2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
 78            android:required="false" />
-78-->[androidx.window:window:1.0.0-beta04] C:\Users\danim\.gradle\caches\transforms-3\4b5a18471ec833030c46d3531975dc92\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+78-->[androidx.window:window:1.0.0-beta04] C:\Users\danim\.gradle\caches\transforms-3\31f761f927b360985a7dd97909350be2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
 79        <uses-library
-79-->[androidx.window:window:1.0.0-beta04] C:\Users\danim\.gradle\caches\transforms-3\4b5a18471ec833030c46d3531975dc92\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+79-->[androidx.window:window:1.0.0-beta04] C:\Users\danim\.gradle\caches\transforms-3\31f761f927b360985a7dd97909350be2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
 80            android:name="androidx.window.sidecar"
-80-->[androidx.window:window:1.0.0-beta04] C:\Users\danim\.gradle\caches\transforms-3\4b5a18471ec833030c46d3531975dc92\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+80-->[androidx.window:window:1.0.0-beta04] C:\Users\danim\.gradle\caches\transforms-3\31f761f927b360985a7dd97909350be2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
 81            android:required="false" />
-81-->[androidx.window:window:1.0.0-beta04] C:\Users\danim\.gradle\caches\transforms-3\4b5a18471ec833030c46d3531975dc92\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+81-->[androidx.window:window:1.0.0-beta04] C:\Users\danim\.gradle\caches\transforms-3\31f761f927b360985a7dd97909350be2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
 82
 83        <receiver
-83-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:18:9-29:20
+83-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:18:9-29:20
 84            android:name="io.radar.sdk.RadarLocationReceiver"
-84-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:19:13-62
+84-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:19:13-62
 85            android:enabled="true"
-85-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:20:13-35
+85-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:20:13-35
 86            android:exported="false" >
-86-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:21:13-37
+86-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:21:13-37
 87            <intent-filter android:priority="999" >
-87-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:22:13-28:29
-87-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:22:28-50
+87-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:22:13-28:29
+87-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:22:28-50
 88                <action android:name="io.radar.sdk.LocationReceiver.SYNCED_GEOFENCES" />
-88-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:23:17-89
-88-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:23:25-86
+88-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:23:17-89
+88-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:23:25-86
 89                <action android:name="io.radar.sdk.LocationReceiver.GEOFENCE" />
-89-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:24:17-81
-89-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:24:25-78
+89-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:24:17-81
+89-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:24:25-78
 90                <action android:name="io.radar.sdk.LocationReceiver.LOCATION" />
-90-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:25:17-81
-90-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:25:25-78
+90-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:25:17-81
+90-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:25:25-78
 91                <action android:name="io.radar.sdk.LocationReceiver.BEACON" />
-91-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:26:17-79
-91-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:26:25-76
+91-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:26:17-79
+91-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:26:25-76
 92                <action android:name="android.intent.action.BOOT_COMPLETED" />
-92-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:27:17-79
-92-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:27:25-76
+92-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:27:17-79
+92-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:27:25-76
 93            </intent-filter>
 94        </receiver>
 95
 96        <service
-96-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:31:9-34:72
+96-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:31:9-34:72
 97            android:name="io.radar.sdk.RadarJobScheduler"
-97-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:32:13-58
+97-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:32:13-58
 98            android:exported="true"
-98-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:33:13-36
+98-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:33:13-36
 99            android:permission="android.permission.BIND_JOB_SERVICE" />
-99-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:34:13-69
+99-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:34:13-69
 100        <service
-100-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:35:9-37:56
+100-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:35:9-37:56
 101            android:name="io.radar.sdk.RadarForegroundService"
-101-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:36:13-63
+101-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:36:13-63
 102            android:foregroundServiceType="location" />
-102-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\56cadb4feb9db50ea2a2fad78c1227d7\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:37:13-53
+102-->[io.radar:sdk:3.9.5] C:\Users\danim\.gradle\caches\transforms-3\a02471219e4ff23299592505ee5562cc\transformed\jetified-sdk-3.9.5\AndroidManifest.xml:37:13-53
 103
 104        <activity
-104-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\danim\.gradle\caches\transforms-3\46c5569314c858d9f6637376a10dbcf9\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+104-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\danim\.gradle\caches\transforms-3\350496be766b902af85f192a4ec09846\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
 105            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-105-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\danim\.gradle\caches\transforms-3\46c5569314c858d9f6637376a10dbcf9\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+105-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\danim\.gradle\caches\transforms-3\350496be766b902af85f192a4ec09846\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
 106            android:exported="false"
-106-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\danim\.gradle\caches\transforms-3\46c5569314c858d9f6637376a10dbcf9\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+106-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\danim\.gradle\caches\transforms-3\350496be766b902af85f192a4ec09846\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
 107            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-107-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\danim\.gradle\caches\transforms-3\46c5569314c858d9f6637376a10dbcf9\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+107-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\danim\.gradle\caches\transforms-3\350496be766b902af85f192a4ec09846\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
 108
 109        <meta-data
-109-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\danim\.gradle\caches\transforms-3\f796015160c119ae54b583dbc48730ad\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+109-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\danim\.gradle\caches\transforms-3\1b01a09da29983b88642b93f60125471\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
 110            android:name="com.google.android.gms.version"
-110-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\danim\.gradle\caches\transforms-3\f796015160c119ae54b583dbc48730ad\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+110-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\danim\.gradle\caches\transforms-3\1b01a09da29983b88642b93f60125471\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
 111            android:value="@integer/google_play_services_version" />
-111-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\danim\.gradle\caches\transforms-3\f796015160c119ae54b583dbc48730ad\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+111-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\danim\.gradle\caches\transforms-3\1b01a09da29983b88642b93f60125471\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
 112
 113        <provider
-113-->[androidx.emoji2:emoji2:1.0.0] C:\Users\danim\.gradle\caches\transforms-3\3787ebe42bf0722cd90d3267fbf00c37\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+113-->[androidx.emoji2:emoji2:1.0.0] C:\Users\danim\.gradle\caches\transforms-3\4e0bc98f1c5b237b9f4085596d1516ee\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
 114            android:name="androidx.startup.InitializationProvider"
-114-->[androidx.emoji2:emoji2:1.0.0] C:\Users\danim\.gradle\caches\transforms-3\3787ebe42bf0722cd90d3267fbf00c37\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+114-->[androidx.emoji2:emoji2:1.0.0] C:\Users\danim\.gradle\caches\transforms-3\4e0bc98f1c5b237b9f4085596d1516ee\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
 115            android:authorities="com.yourdomain.trackerblue.androidx-startup"
-115-->[androidx.emoji2:emoji2:1.0.0] C:\Users\danim\.gradle\caches\transforms-3\3787ebe42bf0722cd90d3267fbf00c37\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+115-->[androidx.emoji2:emoji2:1.0.0] C:\Users\danim\.gradle\caches\transforms-3\4e0bc98f1c5b237b9f4085596d1516ee\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
 116            android:exported="false" >
-116-->[androidx.emoji2:emoji2:1.0.0] C:\Users\danim\.gradle\caches\transforms-3\3787ebe42bf0722cd90d3267fbf00c37\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+116-->[androidx.emoji2:emoji2:1.0.0] C:\Users\danim\.gradle\caches\transforms-3\4e0bc98f1c5b237b9f4085596d1516ee\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
 117            <meta-data
-117-->[androidx.emoji2:emoji2:1.0.0] C:\Users\danim\.gradle\caches\transforms-3\3787ebe42bf0722cd90d3267fbf00c37\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+117-->[androidx.emoji2:emoji2:1.0.0] C:\Users\danim\.gradle\caches\transforms-3\4e0bc98f1c5b237b9f4085596d1516ee\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
 118                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-118-->[androidx.emoji2:emoji2:1.0.0] C:\Users\danim\.gradle\caches\transforms-3\3787ebe42bf0722cd90d3267fbf00c37\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+118-->[androidx.emoji2:emoji2:1.0.0] C:\Users\danim\.gradle\caches\transforms-3\4e0bc98f1c5b237b9f4085596d1516ee\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
 119                android:value="androidx.startup" />
-119-->[androidx.emoji2:emoji2:1.0.0] C:\Users\danim\.gradle\caches\transforms-3\3787ebe42bf0722cd90d3267fbf00c37\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+119-->[androidx.emoji2:emoji2:1.0.0] C:\Users\danim\.gradle\caches\transforms-3\4e0bc98f1c5b237b9f4085596d1516ee\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
 120            <meta-data
-120-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\danim\.gradle\caches\transforms-3\f9a1426dbc226b66d910def0dcb5314f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+120-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\danim\.gradle\caches\transforms-3\81f447f955152f73dab79a3d43aa1ab2\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
 121                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-121-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\danim\.gradle\caches\transforms-3\f9a1426dbc226b66d910def0dcb5314f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+121-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\danim\.gradle\caches\transforms-3\81f447f955152f73dab79a3d43aa1ab2\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
 122                android:value="androidx.startup" />
-122-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\danim\.gradle\caches\transforms-3\f9a1426dbc226b66d910def0dcb5314f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+122-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\danim\.gradle\caches\transforms-3\81f447f955152f73dab79a3d43aa1ab2\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
 123        </provider>
 124    </application>
 125
